@@ -1,0 +1,14 @@
+# 忽略Qt编译目录
+build/
+# 忽略Qt Creator临时配置文件
+*.user
+*.user.*
+*.pro.user
+*.pro.user.*
+# 忽略QML缓存文件
+.qmlcache/
+# 忽略编译生成的可执行文件、库文件等
+*.exe
+*.dll
+*.so
+*.a
